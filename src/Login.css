@@ -4,6 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .login__container {
@@ -16,21 +17,21 @@
 
 .login__textBox {
   padding: 10px;
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 10px;
 }
 
 .login__btn {
   padding: 10px;
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 10px;
   border: none;
   color: white;
-  background-color: black;
+  background-color: #1976d2;
 }
 
 .login__google {
-  background-color: #4285f4;
+  background-color: #db4437;
 }
 
 .login div {

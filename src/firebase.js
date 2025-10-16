@@ -28,12 +28,13 @@ import {
 // };
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCfDyRlVfD4LXDiEAhqRdmnO4uHQDh6HSE",
-  authDomain: "sample-47bf7.firebaseapp.com",
-  projectId: "sample-47bf7",
-  storageBucket: "sample-47bf7.appspot.com",
-  messagingSenderId: "677920709463",
-  appId: "1:677920709463:web:b8b1cff8f134c6c6c2fc12"
+  apiKey: "AIzaSyBcICtHl2lwmsGrp3JqahA66odXNx5iQOg",
+  authDomain: "is4301tutorial6-7f678.firebaseapp.com",
+  projectId: "is4301tutorial6-7f678",
+  storageBucket: "is4301tutorial6-7f678.firebasestorage.app",
+  messagingSenderId: "386989290839",
+  appId: "1:386989290839:web:169bb31acc652b16a5fa12",
+  measurementId: "G-CBYLMPYMF8"
 };
 
 const app = initializeApp(firebaseConfig);
