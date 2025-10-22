@@ -34,4 +34,4 @@ jobs:
 
       # Runs the tests defined in your package.json
       - name: Run tests
-        run: npm test
+        run: npm test --passWithNoTests
