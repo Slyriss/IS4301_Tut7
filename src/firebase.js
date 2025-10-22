@@ -33,8 +33,8 @@ const firebaseConfig = {
   projectId: "is4301tutorial6-7f678",
   storageBucket: "is4301tutorial6-7f678.firebasestorage.app",
   messagingSenderId: "386989290839",
-  appId: "1:386989290839:web:169bb31acc652b16a5fa12",
-  measurementId: "G-CBYLMPYMF8"
+  appId: "1:386989290839:web:5c5e07d213be7db1a5fa12",
+  measurementId: "G-XZCSM98JR9"
 };
 
 const app = initializeApp(firebaseConfig);
